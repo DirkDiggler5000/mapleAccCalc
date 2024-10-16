@@ -104,13 +104,19 @@ function MonsterDetails({
         const hitRate = GetHitRate(monsterAvoid, monsterLevel);
 
         if (hitRate == 100) {
-            return 'rgba(0, 160, 0, 0.75)';
+            return 'rgba(35, 255, 0, 0.75)';
         }
-        else if (hitRate < 100 && hitRate !== 0) {
-            return 'rgba(255, 255, 0, 0.75)';
+        else if (hitRate < 100 && hitRate >= 60) {
+            return 'rgba(250, 255, 88, 0.75)';
+        }
+        else if (hitRate < 60 && hitRate >= 30) {
+            return 'rgba(255, 146, 0, 0.75)';
+        }
+        else if (hitRate < 30 && hitRate >= 1) {
+            return 'rgba(255, 0, 0, 0.75)';
         }
         else {
-            return 'rgba(255, 0, 0, 0.75)';
+            return 'rgba(206, 206, 206, 0.75)';
         }
     }
 
