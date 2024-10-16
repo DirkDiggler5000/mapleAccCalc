@@ -27,7 +27,7 @@ function CharacterBaseStats({
                 <InputField label={'DEX'} value={characterDex} onChange={dexOnChange} />
                 <InputField label={'INT'} value={characterInt} onChange={intOnChange} />
                 <InputField label={'LUK'} value={characterLuk} onChange={lukOnChange} />
-                <label>Calculated Build Accuracy: <strong>{characterAccuracy.toPrecision(3)}</strong></label>
+                <h5>Calculated Build Accuracy: <strong>{characterAccuracy.toPrecision(3)}</strong></h5>
             </div>
 
             <div className="col" style={{ textAlign: '-webkit-center' }}>

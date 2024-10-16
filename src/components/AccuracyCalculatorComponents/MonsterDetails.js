@@ -122,9 +122,11 @@ function MonsterDetails({
 
     return (
         <div>
-            <div className='p-1'>
+            <div className='p-1' style={{
+                textAlign: '-webkit-center'
+            }}>
                 <strong>Monster Search: </strong>
-                <input type='text' value={searchTerm} onChange={handleSearchChange} />
+                <input className='form-control' style={{width: '25%', textAlign: 'center'}} type='text' value={searchTerm} onChange={handleSearchChange} />
             </div>
 
             <div className="row row-cols-5">
