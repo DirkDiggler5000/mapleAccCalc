@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OSMapleGG/static/css/main.284706bd.css",
+    "main.js": "/OSMapleGG/static/js/main.7ec46793.js",
+    "static/js/453.be399a90.chunk.js": "/OSMapleGG/static/js/453.be399a90.chunk.js",
+    "index.html": "/OSMapleGG/index.html",
+    "main.284706bd.css.map": "/OSMapleGG/static/css/main.284706bd.css.map",
+    "main.7ec46793.js.map": "/OSMapleGG/static/js/main.7ec46793.js.map",
+    "453.be399a90.chunk.js.map": "/OSMapleGG/static/js/453.be399a90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284706bd.css",
+    "static/js/main.7ec46793.js"
+  ]
+}
