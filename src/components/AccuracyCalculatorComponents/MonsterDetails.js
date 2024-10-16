@@ -126,38 +126,47 @@ function MonsterDetails({
                 textAlign: '-webkit-center'
             }}>
                 <strong>Monster Search: </strong>
-                <input className='form-control' style={{width: '25%', textAlign: 'center'}} type='text' value={searchTerm} onChange={handleSearchChange} />
+                <input className='form-control' style={{ width: '25%', textAlign: 'center' }} type='text' value={searchTerm} onChange={handleSearchChange} />
             </div>
 
-            <div className="row row-cols-5">
+            <div className="row">
                 {monstersByLevel.map(monster => {
                     let renderType = 'move'
 
                     if (monster.id === '2300100' || monster.id === '5300100') {
                         renderType = 'fly'
                     }
-                    
-                    return (<div key={monster.id} className="col" style={{ backgroundColor: `${GetBackgroundColor(monster.avoid, monster.level)}` }}>
-                        <div>
-                            <img src={`https://maplestory.io/api/gms/62/mob/${monster.id}/render/${renderType}`} width={50} height={50} />
-                        </div>
-                        <div>
-                            <strong>{monster.name}</strong>
-                        </div>
-                        <div>
-                            <span>Level: {monster.level}</span>
-                        </div>
-                        <div>
-                            <span>Avoid: {monster.avoid}</span>
-                        </div>
-                        <div>
-                            <span>Acc for 1% Hit: <strong>{GetMonsterOnePercentHit(monster.avoid, monster.level).toPrecision(3)}</strong></span>
-                        </div>
-                        <div>
-                            <span>Acc for 100% Hit: <strong>{GetOneHundredPercentHit(monster.avoid, monster.level).toPrecision(3)}</strong></span>
-                        </div>
-                        <div>
-                            <span>Hit Rate: <strong>{GetHitRate(monster.avoid, monster.level).toPrecision(3)}</strong></span>
+
+                    return (<div key={monster.id} className="col-2"
+                        style={{
+                        }}>
+                        <div className="col-12" style={{
+                            marginTop: '24px',
+                            backgroundColor: `${GetBackgroundColor(monster.avoid, monster.level)}`,
+                            borderRadius: '10px',
+                            boxShadow: 'rgba(136, 165, 191, 1) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px'
+                        }}>
+                            <div>
+                                <img src={`https://maplestory.io/api/gms/62/mob/${monster.id}/render/${renderType}`} width={50} height={50} />
+                            </div>
+                            <div>
+                                <strong>{monster.name}</strong>
+                            </div>
+                            <div>
+                                <span>Level: {monster.level}</span>
+                            </div>
+                            <div>
+                                <span>Avoid: {monster.avoid}</span>
+                            </div>
+                            <div>
+                                <span>Acc for 1% Hit: <strong>{GetMonsterOnePercentHit(monster.avoid, monster.level).toPrecision(3)}</strong></span>
+                            </div>
+                            <div>
+                                <span>Acc for 100% Hit: <strong>{GetOneHundredPercentHit(monster.avoid, monster.level).toPrecision(3)}</strong></span>
+                            </div>
+                            <div>
+                                <span>Hit Rate: <strong>{GetHitRate(monster.avoid, monster.level).toPrecision(3)}</strong></span>
+                            </div>
                         </div>
                     </div>)
                 })}
