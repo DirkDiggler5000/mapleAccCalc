@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import monsters from '../../data/monsters.json'
+import flyingMonsters from '../../data/flyingMonsters.json'
+import standingMonsters from '../../data/standingMonsters.json'
 
 function MonsterDetails({
     damageType,
@@ -133,8 +135,11 @@ function MonsterDetails({
                 {monstersByLevel.map(monster => {
                     let renderType = 'move'
 
-                    if (monster.id === '2300100' || monster.id === '5300100') {
+                    if (flyingMonsters.includes(monster.id)) {
                         renderType = 'fly'
+                    }
+                    else if (standingMonsters.includes(monster.id)) {
+                        renderType = 'stand'
                     }
 
                     return (<div key={monster.id} className="col-2"

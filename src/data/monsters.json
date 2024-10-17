@@ -1133,5 +1133,1757 @@
         ],
         "strong": [],
         "immune": []
+    },
+    {
+        "name": "Bain",
+        "id": "8140500",
+        "level": 90,
+        "hp": "45000",
+        "avoid": "38",
+        "exp": "1800",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Cellion",
+        "id": "5120001",
+        "level": 53,
+        "hp": "4200",
+        "avoid": "25",
+        "exp": "160",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Cerebes",
+        "id": "7130001",
+        "level": 72,
+        "hp": "15200",
+        "avoid": "30",
+        "exp": "295",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Coolie Zombie",
+        "id": "5130107",
+        "level": 57,
+        "hp": "4500",
+        "avoid": "25",
+        "exp": "190",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Dark Jr. Yeti",
+        "id": "5130105",
+        "level": 56,
+        "hp": "4400",
+        "avoid": "27",
+        "exp": "180",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Leatty",
+        "id": "5300001",
+        "level": 33,
+        "hp": "1100",
+        "avoid": "15",
+        "exp": "65",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Nependeath",
+        "id": "4130102",
+        "level": 47,
+        "hp": "2700",
+        "avoid": "15",
+        "exp": "115",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Pepe",
+        "id": "6230200",
+        "level": 64,
+        "hp": "7800",
+        "avoid": "31",
+        "exp": "250",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Yeti",
+        "id": "6400000",
+        "level": 68,
+        "hp": "13000",
+        "avoid": "26",
+        "exp": "265",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Yeti and Pepe",
+        "id": "8140100",
+        "level": 82,
+        "hp": "29000",
+        "avoid": "30",
+        "exp": "0",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Eliza",
+        "id": "8220000",
+        "level": 83,
+        "hp": "87000",
+        "avoid": "30",
+        "exp": "2800",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Fairy 1",
+        "id": "3000001",
+        "level": 30,
+        "hp": "800",
+        "avoid": "25",
+        "exp": "120",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Fairy 2",
+        "id": "3000002",
+        "level": 30,
+        "hp": "800",
+        "avoid": "25",
+        "exp": "120",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Fire Sentinel",
+        "id": "5200002",
+        "level": 30,
+        "hp": "900",
+        "avoid": "12",
+        "exp": "55",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Firebomb",
+        "id": "5100002",
+        "level": 51,
+        "hp": "3600",
+        "avoid": "28",
+        "exp": "142",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Flyeye",
+        "id": "4230107",
+        "level": 41,
+        "hp": "1600",
+        "avoid": "28",
+        "exp": "95",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Grupin",
+        "id": "5120003",
+        "level": 53,
+        "hp": "4200",
+        "avoid": "25",
+        "exp": "160",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Hector",
+        "id": "5130104",
+        "level": 55,
+        "hp": "4600",
+        "avoid": "20",
+        "exp": "170",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Ice Sentinel",
+        "id": "5200001",
+        "level": 30,
+        "hp": "900",
+        "avoid": "12",
+        "exp": "55",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Jr. Cellion",
+        "id": "3210200",
+        "level": 33,
+        "hp": "1100",
+        "avoid": "15",
+        "exp": "65",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Jr. Cerebes",
+        "id": "4230108",
+        "level": 43,
+        "hp": "2300",
+        "avoid": "25",
+        "exp": "102",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Jr. Grupin",
+        "id": "3210202",
+        "level": 33,
+        "hp": "1100",
+        "avoid": "15",
+        "exp": "65",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Jr. Lioner",
+        "id": "3210201",
+        "level": 33,
+        "hp": "1100",
+        "avoid": "15",
+        "exp": "65",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Jr. Pepe",
+        "id": "5400000",
+        "level": 35,
+        "hp": "1400",
+        "avoid": "18",
+        "exp": "75",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Jr. Sentinel",
+        "id": "5200000",
+        "level": 23,
+        "hp": "600",
+        "avoid": "8",
+        "exp": "40",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Jr. Yeti",
+        "id": "5100000",
+        "level": 50,
+        "hp": "3700",
+        "avoid": "25",
+        "exp": "135",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Leatty",
+        "id": "5300000",
+        "level": 32,
+        "hp": "1000",
+        "avoid": "13",
+        "exp": "60",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Lioner",
+        "id": "5120002",
+        "level": 53,
+        "hp": "4200",
+        "avoid": "25",
+        "exp": "160",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Lucida",
+        "id": "7130000",
+        "level": 73,
+        "hp": "15500",
+        "avoid": "28",
+        "exp": "320",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Lunar Pixie",
+        "id": "4230106",
+        "level": 45,
+        "hp": "2500",
+        "avoid": "24",
+        "exp": "105",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Luster Pixie",
+        "id": "5120000",
+        "level": 52,
+        "hp": "4000",
+        "avoid": "22",
+        "exp": "155",
+        "weak": [],
+        "strong": [
+            "Ice",
+            "Lightning",
+            "Fire",
+            "Holy"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Lycanthrope",
+        "id": "8140000",
+        "level": 80,
+        "hp": "27000",
+        "avoid": "28",
+        "exp": "850",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Miner Zombie",
+        "id": "5130108",
+        "level": 57,
+        "hp": "4500",
+        "avoid": "25",
+        "exp": "190",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Nependeath",
+        "id": "4230105",
+        "level": 42,
+        "hp": "2100",
+        "avoid": "10",
+        "exp": "99",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Pepe",
+        "id": "6130103",
+        "level": 60,
+        "hp": "7200",
+        "avoid": "30",
+        "exp": "220",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Riche",
+        "id": "6090000",
+        "level": 10,
+        "hp": "11000",
+        "avoid": "999",
+        "exp": "255",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Scuba Pepe",
+        "id": "3210450",
+        "level": 36,
+        "hp": "1430",
+        "avoid": "18",
+        "exp": "80",
+        "weak": [],
+        "strong": [
+            "Ice",
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Sentinel",
+        "id": "3000000",
+        "level": 30,
+        "hp": "900",
+        "avoid": "12",
+        "exp": "55",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Lightning",
+            "Holy"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Separated Dark Pepe",
+        "id": "6230201",
+        "level": 64,
+        "hp": "7800",
+        "avoid": "31",
+        "exp": "700",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Separated Dark Yeti",
+        "id": "6400002",
+        "level": 68,
+        "hp": "13000",
+        "avoid": "26",
+        "exp": "715",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Separated Yeti",
+        "id": "6300002",
+        "level": 65,
+        "hp": "11000",
+        "avoid": "24",
+        "exp": "455",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Snow Witch",
+        "id": "6090001",
+        "level": 10,
+        "hp": "7700",
+        "avoid": "999",
+        "exp": "250",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Snowman",
+        "id": "8220001",
+        "level": 90,
+        "hp": "120000",
+        "avoid": "38",
+        "exp": "5200",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Star Pixie",
+        "id": "3230200",
+        "level": 35,
+        "hp": "1300",
+        "avoid": "21",
+        "exp": "72",
+        "weak": [],
+        "strong": [
+            "Holy"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Transformed Dark Yeti",
+        "id": "6400001",
+        "level": 68,
+        "hp": "13000",
+        "avoid": "26",
+        "exp": "445",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Transformed Yeti",
+        "id": "6300001",
+        "level": 65,
+        "hp": "11000",
+        "avoid": "24",
+        "exp": "390",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Transforming Dark Jr. Yeti",
+        "id": "5130106",
+        "level": 56,
+        "hp": "4400",
+        "avoid": "27",
+        "exp": "0",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Transforming Jr. Yeti",
+        "id": "5100001",
+        "level": 50,
+        "hp": "3700",
+        "avoid": "25",
+        "exp": "0",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Werewolf",
+        "id": "7130200",
+        "level": 75,
+        "hp": "16000",
+        "avoid": "25",
+        "exp": "350",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "White Fang",
+        "id": "5140000",
+        "level": 58,
+        "hp": "5800",
+        "avoid": "25",
+        "exp": "220",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Yeti",
+        "id": "6300000",
+        "level": 65,
+        "hp": "11000",
+        "avoid": "24",
+        "exp": "255",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Yeti and Pepe",
+        "id": "7130102",
+        "level": 78,
+        "hp": "20000",
+        "avoid": "30",
+        "exp": "0",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Zakum1",
+        "id": "8800000",
+        "level": 140,
+        "hp": "66000000",
+        "avoid": "12",
+        "exp": "0",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum2",
+        "id": "8800001",
+        "level": 140,
+        "hp": "88000000",
+        "avoid": "14",
+        "exp": "0",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum3",
+        "id": "8800002",
+        "level": 140,
+        "hp": "110000000",
+        "avoid": "16",
+        "exp": "7000000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 1",
+        "id": "8800003",
+        "level": 140,
+        "hp": "33000000",
+        "avoid": "14",
+        "exp": "1344000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 2",
+        "id": "8800004",
+        "level": 140,
+        "hp": "33000000",
+        "avoid": "14",
+        "exp": "1344000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 3",
+        "id": "8800005",
+        "level": 140,
+        "hp": "22000000",
+        "avoid": "14",
+        "exp": "896000",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Zakum's Arm 4",
+        "id": "8800006",
+        "level": 140,
+        "hp": "22000000",
+        "avoid": "14",
+        "exp": "896000",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice",
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 5",
+        "id": "8800007",
+        "level": 140,
+        "hp": "27500000",
+        "avoid": "14",
+        "exp": "1120000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 6",
+        "id": "8800008",
+        "level": 140,
+        "hp": "30000000",
+        "avoid": "14",
+        "exp": "1120000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 7",
+        "id": "8800009",
+        "level": 140,
+        "hp": "25300000",
+        "avoid": "14",
+        "exp": "1030400",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zakum's Arm 8",
+        "id": "8800010",
+        "level": 140,
+        "hp": "25300000",
+        "avoid": "14",
+        "exp": "1030400",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Barnard Gray",
+        "id": "4230116",
+        "level": 40,
+        "hp": "1930",
+        "avoid": "18",
+        "exp": "95",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Black Ratz",
+        "id": "3210205",
+        "level": 34,
+        "hp": "1150",
+        "avoid": "14",
+        "exp": "70",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Blin",
+        "id": "6130201",
+        "level": 60,
+        "hp": "3500",
+        "avoid": "38",
+        "exp": "0",
+        "weak": [
+            "Ice",
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Block Golem",
+        "id": "4230109",
+        "level": 42,
+        "hp": "2400",
+        "avoid": "12",
+        "exp": "102",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice",
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Bloctopus",
+        "id": "3230302",
+        "level": 35,
+        "hp": "1300",
+        "avoid": "15",
+        "exp": "72",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Blue King Goblin",
+        "id": "7130401",
+        "level": 70,
+        "hp": "25000",
+        "avoid": "15",
+        "exp": "400",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Brown Teddy",
+        "id": "3000005",
+        "level": 30,
+        "hp": "950",
+        "avoid": "12",
+        "exp": "60",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Buffoon",
+        "id": "6300100",
+        "level": 74,
+        "hp": "16000",
+        "avoid": "27",
+        "exp": "340",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Buffy",
+        "id": "6130200",
+        "level": 61,
+        "hp": "7400",
+        "avoid": "23",
+        "exp": "230",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Chief Gray",
+        "id": "4240000",
+        "level": 49,
+        "hp": "9000",
+        "avoid": "25",
+        "exp": "580",
+        "weak": [],
+        "strong": [
+            "Ice",
+            "Lightning",
+            "Fire",
+            "Holy"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Chirppy",
+        "id": "3230307",
+        "level": 31,
+        "hp": "800",
+        "avoid": "10",
+        "exp": "62",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Chronos",
+        "id": "3230306",
+        "level": 37,
+        "hp": "1750",
+        "avoid": "20",
+        "exp": "82",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Axe Stump",
+        "id": "2130100",
+        "level": 10,
+        "hp": "550",
+        "avoid": "7",
+        "exp": "38",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dark Klock",
+        "id": "8140300",
+        "level": 76,
+        "hp": "18000",
+        "avoid": "27",
+        "exp": "370",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Death Teddy",
+        "id": "7130010",
+        "level": 85,
+        "hp": "32000",
+        "avoid": "27",
+        "exp": "1300",
+        "weak": [
+            "Fire",
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Deep Buffoon",
+        "id": "6400100",
+        "level": 77,
+        "hp": "19000",
+        "avoid": "28",
+        "exp": "385",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Drumming Bunny",
+        "id": "3230400",
+        "level": 30,
+        "hp": "950",
+        "avoid": "12",
+        "exp": "60",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Dual Ghost Pirate",
+        "id": "7160000",
+        "level": 87,
+        "hp": "35000",
+        "avoid": "28",
+        "exp": "1500",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Gatekeeper",
+        "id": "8160000",
+        "level": 108,
+        "hp": "78000",
+        "avoid": "37",
+        "exp": "4300",
+        "weak": [],
+        "strong": [
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Ghost Pirate",
+        "id": "7140000",
+        "level": 83,
+        "hp": "30000",
+        "avoid": "27",
+        "exp": "1100",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Gigantic Spirit Viking",
+        "id": "8141100",
+        "level": 98,
+        "hp": "58000",
+        "avoid": "38",
+        "exp": "2600",
+        "weak": [
+            "Lightning"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Green King Goblin",
+        "id": "7130402",
+        "level": 70,
+        "hp": "25000",
+        "avoid": "15",
+        "exp": "400",
+        "weak": [],
+        "strong": [],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Green Trixter",
+        "id": "2230104",
+        "level": 28,
+        "hp": "780",
+        "avoid": "12",
+        "exp": "55",
+        "weak": [],
+        "strong": [],
+        "immune": [
+            "Poison"
+        ]
+    },
+    {
+        "name": "Grim Phantom Watch",
+        "id": "8143000",
+        "level": 99,
+        "hp": "60000",
+        "avoid": "38",
+        "exp": "2800",
+        "weak": [
+            "Fire",
+            "Holy"
+        ],
+        "strong": [],
+        "immune": [
+            "Ice"
+        ]
+    },
+    {
+        "name": "Helly",
+        "id": "3210206",
+        "level": 36,
+        "hp": "1350",
+        "avoid": "17",
+        "exp": "77",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Hodori",
+        "id": "5100003",
+        "level": 50,
+        "hp": "3800",
+        "avoid": "28",
+        "exp": "140",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Hogul",
+        "id": "5100005",
+        "level": 53,
+        "hp": "4500",
+        "avoid": "25",
+        "exp": "165",
+        "weak": [
+            "Ice"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "King Block Golem",
+        "id": "4230110",
+        "level": 45,
+        "hp": "2600",
+        "avoid": "14",
+        "exp": "110",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "King Bloctopus",
+        "id": "3230103",
+        "level": 38,
+        "hp": "1850",
+        "avoid": "18",
+        "exp": "85",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Klock",
+        "id": "8140200",
+        "level": 70,
+        "hp": "15000",
+        "avoid": "26",
+        "exp": "270",
+        "weak": [
+            "Fire",
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Lazy Buffy",
+        "id": "6230300",
+        "level": 66,
+        "hp": "9400",
+        "avoid": "26",
+        "exp": "260",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Master Chronos",
+        "id": "4230115",
+        "level": 46,
+        "hp": "2600",
+        "avoid": "24",
+        "exp": "115",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Master Death Teddy",
+        "id": "7130300",
+        "level": 89,
+        "hp": "40000",
+        "avoid": "28",
+        "exp": "1720",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [
+            "Ice",
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Master Robo",
+        "id": "4230112",
+        "level": 44,
+        "hp": "2450",
+        "avoid": "18",
+        "exp": "105",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Master Soul Teddy",
+        "id": "6230500",
+        "level": 67,
+        "hp": "11000",
+        "avoid": "27",
+        "exp": "265",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [
+            "Lightning"
+        ],
+        "immune": [
+            "Ice"
+        ]
+    },
+    {
+        "name": "Mateon",
+        "id": "4230119",
+        "level": 41,
+        "hp": "2080",
+        "avoid": "16",
+        "exp": "99",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Mecateon",
+        "id": "4230121",
+        "level": 46,
+        "hp": "2600",
+        "avoid": "20",
+        "exp": "110",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Moon Bunny",
+        "id": "4230300",
+        "level": 45,
+        "hp": "2600",
+        "avoid": "20",
+        "exp": "110",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Morphed Blin",
+        "id": "6130202",
+        "level": 60,
+        "hp": "7000",
+        "avoid": "25",
+        "exp": "330",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [
+            "Ice",
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Mossy Mushroom",
+        "id": "5250000",
+        "level": 55,
+        "hp": "4400",
+        "avoid": "20",
+        "exp": "175",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Mossy Snail",
+        "id": "4250000",
+        "level": 42,
+        "hp": "2400",
+        "avoid": "12",
+        "exp": "102",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "MT-09",
+        "id": "5120100",
+        "level": 54,
+        "hp": "13500",
+        "avoid": "20",
+        "exp": "980",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Old Fox",
+        "id": "7220001",
+        "level": 70,
+        "hp": "89000",
+        "avoid": "25",
+        "exp": "1300",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Panda Teddy",
+        "id": "3210203",
+        "level": 36,
+        "hp": "1400",
+        "avoid": "16",
+        "exp": "77",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Papulatus",
+        "id": "8500002",
+        "level": 125,
+        "hp": "1590000",
+        "avoid": "40",
+        "exp": "970000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Papulatus Clock",
+        "id": "8500001",
+        "level": 125,
+        "hp": "23000000",
+        "avoid": "12",
+        "exp": "596000",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Phantom Watch",
+        "id": "8142000",
+        "level": 95,
+        "hp": "53000",
+        "avoid": "37",
+        "exp": "2300",
+        "weak": [
+            "Fire",
+            "Holy"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Pink Teddy",
+        "id": "3110101",
+        "level": 32,
+        "hp": "1050",
+        "avoid": "14",
+        "exp": "65",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Planey",
+        "id": "3230304",
+        "level": 38,
+        "hp": "1830",
+        "avoid": "19",
+        "exp": "85",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Plateon",
+        "id": "4230120",
+        "level": 44,
+        "hp": "2480",
+        "avoid": "18",
+        "exp": "105",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Platoon Chronos",
+        "id": "4230114",
+        "level": 41,
+        "hp": "2050",
+        "avoid": "22",
+        "exp": "99",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Platoon Cronos",
+        "id": "9300016",
+        "level": 41,
+        "hp": "3050",
+        "avoid": "24",
+        "exp": "99",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Primitive Boar",
+        "id": "5250002",
+        "level": 57,
+        "hp": "4500",
+        "avoid": "20",
+        "exp": "200",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Propelly",
+        "id": "3230303",
+        "level": 37,
+        "hp": "1700",
+        "avoid": "18",
+        "exp": "82",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Ratz",
+        "id": "3110102",
+        "level": 32,
+        "hp": "1000",
+        "avoid": "13",
+        "exp": "65",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Retz",
+        "id": "3210208",
+        "level": 36,
+        "hp": "1400",
+        "avoid": "18",
+        "exp": "78",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Robo",
+        "id": "4230111",
+        "level": 41,
+        "hp": "2000",
+        "avoid": "15",
+        "exp": "99",
+        "weak": [],
+        "strong": [
+            "Ice",
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Roloduck",
+        "id": "3210204",
+        "level": 34,
+        "hp": "1200",
+        "avoid": "16",
+        "exp": "70",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Samiho",
+        "id": "5100004",
+        "level": 56,
+        "hp": "4500",
+        "avoid": "28",
+        "exp": "185",
+        "weak": [
+            "Fire",
+            "Holy"
+        ],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Scholar Ghost",
+        "id": "6090003",
+        "level": 10,
+        "hp": "6000",
+        "avoid": "999",
+        "exp": "240",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Soul Teddy",
+        "id": "6230400",
+        "level": 63,
+        "hp": "7600",
+        "avoid": "25",
+        "exp": "245",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [
+            "Ice",
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Spirit Viking",
+        "id": "8141000",
+        "level": 93,
+        "hp": "50000",
+        "avoid": "37",
+        "exp": "2100",
+        "weak": [
+            "Lightning"
+        ],
+        "strong": [
+            "Fire"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Thanatos",
+        "id": "8170000",
+        "level": 108,
+        "hp": "70000",
+        "avoid": "38",
+        "exp": "4100",
+        "weak": [
+            "Holy"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Tick",
+        "id": "3210207",
+        "level": 34,
+        "hp": "1100",
+        "avoid": "14",
+        "exp": "70",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Tick-Tock",
+        "id": "4230113",
+        "level": 40,
+        "hp": "1900",
+        "avoid": "20",
+        "exp": "95",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Timer",
+        "id": "5220003",
+        "level": 59,
+        "hp": "21000",
+        "avoid": "20",
+        "exp": "650",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Toy Trojan",
+        "id": "3230305",
+        "level": 39,
+        "hp": "1920",
+        "avoid": "18",
+        "exp": "92",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Tree Rod",
+        "id": "4250001",
+        "level": 46,
+        "hp": "2600",
+        "avoid": "15",
+        "exp": "112",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Trixter",
+        "id": "2230103",
+        "level": 23,
+        "hp": "450",
+        "avoid": "10",
+        "exp": "42",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Holy"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Tweeter",
+        "id": "3230308",
+        "level": 39,
+        "hp": "1900",
+        "avoid": "17",
+        "exp": "85",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Ultra Gray",
+        "id": "4230118",
+        "level": 45,
+        "hp": "2550",
+        "avoid": "21",
+        "exp": "110",
+        "weak": [],
+        "strong": [
+            "Lightning"
+        ],
+        "immune": []
+    },
+    {
+        "name": "Zeno",
+        "id": "6220001",
+        "level": 65,
+        "hp": "36000",
+        "avoid": "29",
+        "exp": "940",
+        "weak": [],
+        "strong": [],
+        "immune": []
+    },
+    {
+        "name": "Zeta Gray",
+        "id": "4230117",
+        "level": 42,
+        "hp": "2300",
+        "avoid": "20",
+        "exp": "102",
+        "weak": [],
+        "strong": [],
+        "immune": []
     }
 ]
