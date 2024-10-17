@@ -11,10 +11,6 @@ function App() {
   const [luk, setLuk] = useState();
 
   return (
-    // background-image: url(https://i.redd.it/2lilft2z0nk51.jpg);
-    // /* background: no-repeat; */
-    // background-repeat: no-repeat;
-    // background-attachment: fixed;
     <div className="App" style={{
       backgroundImage: 'url(https://i.redd.it/2lilft2z0nk51.jpg)',
       backgroundAttachment: 'fixed',
