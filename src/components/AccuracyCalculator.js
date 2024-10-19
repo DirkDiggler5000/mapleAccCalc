@@ -114,6 +114,10 @@ function AccuracyCalculator() {
                             <div>
                                 <a href="https://mrsoupman.github.io/Maple-ACC-calculator/">Monster Accuracy Calculations Source</a>
                             </div>
+
+                            <div>
+                                <p>For questions/bugs, contact Howie Dewitt (js1993) on discord.</p>
+                            </div>
                             {/* <h4>Skill Build</h4>
 
                     <SkillBuild /> */}

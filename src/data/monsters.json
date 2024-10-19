@@ -624,6 +624,21 @@
         "immune": []
     },
     {
+        "name": "Ligator (PQ)",
+        "id": "9300001",
+        "level": 32,
+        "hp": "1000",
+        "avoid": "10",
+        "exp": "120",
+        "weak": [
+            "Fire"
+        ],
+        "strong": [
+            "Ice"
+        ],
+        "immune": []
+    },
+    {
         "name": "Lorang",
         "id": "3230102",
         "level": 37,
