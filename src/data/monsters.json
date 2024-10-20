@@ -583,21 +583,6 @@
         "immune": []
     },
     {
-        "name": "Jr. Yeti",
-        "id": "5100000",
-        "level": 50,
-        "hp": "3700",
-        "avoid": "25",
-        "exp": "135",
-        "weak": [
-            "Fire"
-        ],
-        "strong": [
-            "Ice"
-        ],
-        "immune": []
-    },
-    {
         "name": "King Clang",
         "id": "5220000",
         "level": 55,
@@ -1306,17 +1291,6 @@
         "immune": []
     },
     {
-        "name": "Fairy 2",
-        "id": "3000002",
-        "level": 30,
-        "hp": "800",
-        "avoid": "25",
-        "exp": "120",
-        "weak": [],
-        "strong": [],
-        "immune": []
-    },
-    {
         "name": "Fire Sentinel",
         "id": "5200002",
         "level": 30,
@@ -1810,21 +1784,6 @@
         "immune": []
     },
     {
-        "name": "White Fang",
-        "id": "5140000",
-        "level": 58,
-        "hp": "5800",
-        "avoid": "25",
-        "exp": "220",
-        "weak": [
-            "Fire"
-        ],
-        "strong": [
-            "Ice"
-        ],
-        "immune": []
-    },
-    {
         "name": "Yeti",
         "id": "6300000",
         "level": 65,
@@ -2136,19 +2095,6 @@
         "avoid": "20",
         "exp": "82",
         "weak": [],
-        "strong": [],
-        "immune": []
-    },
-    {
-        "name": "Dark Axe Stump",
-        "id": "2130100",
-        "level": 10,
-        "hp": "550",
-        "avoid": "7",
-        "exp": "38",
-        "weak": [
-            "Fire"
-        ],
         "strong": [],
         "immune": []
     },
