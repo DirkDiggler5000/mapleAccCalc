@@ -1,19 +1,37 @@
 import { useState } from 'react';
 import monsters from '../../data/monsters.json'
+import artaleMonsters from '../../data/artaleMonsters.json'
 import flyingMonsters from '../../data/flyingMonsters.json'
 import standingMonsters from '../../data/standingMonsters.json'
+import monsterCustomImages from '../../data/monsterCustomImagePaths.json'
 
 function MonsterDetails({
     damageType,
     characterLevel,
     characterStats
 }) {
+    const [dataSource, setdataSource] = useState(monsters);
     const [searchTerm, setSearchTerm] = useState('');
-    const [filteredMonsters, setFilteredMonsters] = useState(monsters);
+    const [filteredMonsters, setFilteredMonsters] = useState(dataSource);
 
     const monstersByLevel = filteredMonsters.sort(function (a, b) {
         return a.level - b.level
     });
+
+    const handleDataSourceChange = (value) => {
+        if (value == 'soup') {
+            setdataSource([]);
+            setdataSource(monsters);
+            setFilteredMonsters(monsters);
+            setSearchTerm('');
+        }
+        else if (value == 'artale') {
+            setdataSource([]);
+            setdataSource(artaleMonsters);
+            setFilteredMonsters(artaleMonsters);
+            setSearchTerm('');
+        }
+    }
 
     const handleSearchChange = (event) => {
         const newSearchTerm = event.target.value;
@@ -23,10 +41,10 @@ function MonsterDetails({
         let filtered = []
 
         if (newSearchTerm === null || newSearchTerm.trim() === '') {
-            filtered = monsters;
+            filtered = dataSource;
         }
         else {
-            filtered = monsters.filter((monster) => {
+            filtered = dataSource.filter((monster) => {
                 return monster.name.toLowerCase().includes(searchTerm.toLowerCase());
             })
         }
@@ -127,6 +145,16 @@ function MonsterDetails({
             <div className='p-1' style={{
                 textAlign: '-webkit-center'
             }}>
+                <strong>Monster Data Source: </strong>
+                <div>
+                    <button type="button" className="btn btn-outline-primary m-1" onClick={(event) => { handleDataSourceChange('soup') }}>MrSoupMan Calc</button>
+                    <button type="button" className="btn btn-outline-primary m-1" onClick={(event) => { handleDataSourceChange('artale') }}>Artale</button>
+                </div>
+            </div>
+
+            <div className='p-1' style={{
+                textAlign: '-webkit-center'
+            }}>
                 <strong>Monster Search: </strong>
                 <input className='form-control' style={{ width: '25%', textAlign: 'center' }} type='text' value={searchTerm} onChange={handleSearchChange} />
             </div>
@@ -142,6 +170,12 @@ function MonsterDetails({
                         renderType = 'stand'
                     }
 
+                    let imgSource = `https://maplestory.io/api/gms/62/mob/${monster.id}/render/${renderType}`;
+
+                    if (monsterCustomImages.some(customImage => customImage.id === monster.id)) {
+                        imgSource = monsterCustomImages.find(customImage => customImage.id === monster.id).img;
+                    }
+
                     return (<div key={monster.id} className="col-2"
                         style={{
                         }}>
@@ -152,7 +186,7 @@ function MonsterDetails({
                             boxShadow: 'rgba(136, 165, 191, 1) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px'
                         }}>
                             <div>
-                                <img src={`https://maplestory.io/api/gms/62/mob/${monster.id}/render/${renderType}`} width={50} height={50} />
+                                <img src={imgSource} width={50} height={50} />
                             </div>
                             <div>
                                 <strong>{monster.name}</strong>
