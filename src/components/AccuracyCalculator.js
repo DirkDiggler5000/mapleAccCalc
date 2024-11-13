@@ -118,6 +118,9 @@ function AccuracyCalculator() {
                             <div>
                                 <p>For questions/bugs, contact Howie Dewitt (js1993) on discord.</p>
                             </div>
+                            <div>
+                                <strong>Updated on: 11/13/2024</strong>
+                            </div>
                             {/* <h4>Skill Build</h4>
 
                     <SkillBuild /> */}
