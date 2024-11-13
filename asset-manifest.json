@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mapleAccCalc/static/css/main.284706bd.css",
-    "main.js": "/mapleAccCalc/static/js/main.57306fae.js",
+    "main.js": "/mapleAccCalc/static/js/main.f5752d0a.js",
     "static/js/453.be399a90.chunk.js": "/mapleAccCalc/static/js/453.be399a90.chunk.js",
     "index.html": "/mapleAccCalc/index.html",
     "main.284706bd.css.map": "/mapleAccCalc/static/css/main.284706bd.css.map",
-    "main.57306fae.js.map": "/mapleAccCalc/static/js/main.57306fae.js.map",
+    "main.f5752d0a.js.map": "/mapleAccCalc/static/js/main.f5752d0a.js.map",
     "453.be399a90.chunk.js.map": "/mapleAccCalc/static/js/453.be399a90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284706bd.css",
-    "static/js/main.57306fae.js"
+    "static/js/main.f5752d0a.js"
   ]
 }
